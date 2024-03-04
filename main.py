@@ -9,4 +9,4 @@ for i in range(size):
     if ((x ** 2 + y ** 2) <= 1):
         n += 1
 pi = 4*n/size
-print(pi, math.pi, size)
+print(pi, size)
